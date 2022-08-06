@@ -13,4 +13,17 @@ Sklearn for model building
 Jupyter notebook, visual studio code and pycharm as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot (17)](https://user-images.githubusercontent.com/87602970/183236342-c1ba4392-0b8b-4f66-b350-c61b74db0b3c.png)
